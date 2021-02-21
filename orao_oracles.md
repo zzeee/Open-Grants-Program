@@ -1,10 +1,9 @@
 # Open Grant Proposal
 
 
-> This page is also available in [Chinese (中文)](./application-template-cn.md).
 
 * Orao 
-* Orao dev
+* Orao dev (link to github)
 * XXX
 
 
